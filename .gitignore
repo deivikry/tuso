@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Django
+*.sqlite3
+
+# Flutter
+build/
+.flutter-plugins
+.dart_tool/
+
+# Node/JS (si usas algo en frontend)
+node_modules/
+
+# IDEs
+.vscode/
+.idea/

@@ -16,3 +16,28 @@ El proyecto se desarrolla utilizando un stack moderno:
 ---
 
 ## 📂 Estructura del proyecto
+
+---
+
+## 📝 Funcionalidades preliminares
+- Registro y autenticación de usuarios.
+- Visualización de lugares turísticos poco conocidos.
+- Filtrado de destinos por categoría o ubicación.
+- Valoraciones y comentarios de usuarios.
+- Notificaciones y recomendaciones personalizadas.
+
+---
+
+## 📋 Historias de usuario (ejemplo)
+- *Como turista*, quiero **registrarme en la aplicación** para acceder a la información de lugares turísticos.  
+- *Como promotor local*, quiero **publicar información sobre un sitio turístico** para darlo a conocer a más personas.  
+- *Como usuario*, quiero **dejar una calificación y un comentario** para recomendar un lugar a otros viajeros.  
+
+---
+
+## ⚙️ Instalación y configuración
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/TuUsuario/tuso.git
+cd tuso

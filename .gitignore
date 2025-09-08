@@ -11,7 +11,7 @@ build/
 .flutter-plugins
 .dart_tool/
 
-# Node/JS (si usas algo en frontend)
+# Node/JS (si depronto hay que usar algo en el frontend)
 node_modules/
 
 # IDEs

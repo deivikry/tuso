@@ -33,7 +33,7 @@ El proyecto se desarrolla utilizando un stack moderno:
 
 ---
 
-## 📋 Historias de usuario (ejemplo)
+## 📋 Historias de usuario 
 - *Como turista*, quiero **registrarme en la aplicación** para acceder a la información de lugares turísticos.  
 - *Como promotor local*, quiero **publicar información sobre un sitio turístico** para darlo a conocer a más personas.  
 - *Como usuario*, quiero **dejar una calificación y un comentario** para recomendar un lugar a otros viajeros.  

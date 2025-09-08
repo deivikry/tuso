@@ -20,6 +20,11 @@ El proyecto se desarrolla utilizando un stack moderno:
 ---
 
 ## 📝 Funcionalidades preliminares
+- objetivo para el 11 de septiembre del 2025, conseguir el MVP de la app
+- registro/login
+- ver lugares
+- calificacion sencilla
+----------------------------------
 - Registro y autenticación de usuarios.
 - Visualización de lugares turísticos poco conocidos.
 - Filtrado de destinos por categoría o ubicación.

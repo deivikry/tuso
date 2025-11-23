@@ -1,4 +1,4 @@
-package com.example.frontend
+package com.example.tuso
 
 import io.flutter.embedding.android.FlutterActivity
 

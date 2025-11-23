@@ -44,5 +44,5 @@ El proyecto se desarrolla utilizando un stack moderno:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TuUsuario/tuso.git
+git clone https://github.com/deivikry/tuso.git
 cd tuso
